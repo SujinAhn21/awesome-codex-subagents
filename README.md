@@ -2,6 +2,8 @@
 
 Codex-oriented adaptations of specialized Claude Code subagents.
 
+Adapted from `VoltAgent/awesome-claude-code-subagents` (MIT).
+
 This repository is a Codex-first redistribution and adaptation project. It keeps upstream
 attribution, preserves compatible licensing, and converts Claude-focused agent definitions into
 Codex-friendly assets such as skills, plugins, and guidance examples.
