@@ -1,0 +1,22 @@
+{
+  "name": "vue-expert",
+  "category_slug": "02-language-specialists",
+  "category_name": "Language Specialists",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/02-language-specialists/vue-expert.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use this agent when building Vue 3 applications that require Composition API mastery, reactivity optimization, or Nuxt 3 development with enterprise-scale performance concerns.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

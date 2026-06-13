@@ -1,0 +1,19 @@
+{
+  "name": "compliance-auditor",
+  "category_slug": "04-quality-security",
+  "category_name": "Quality Security",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/04-quality-security/compliance-auditor.md",
+  "source_license": "MIT",
+  "source_model_hint": "opus",
+  "description": "Use this agent when you need to achieve regulatory compliance, implement compliance controls, or prepare for audits across frameworks like GDPR, HIPAA, PCI DSS, SOC 2, and ISO standards.",
+  "tools": [
+    "Read",
+    "Grep",
+    "Glob"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

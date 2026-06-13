@@ -1,0 +1,20 @@
+{
+  "category_slug": "05-data-ai",
+  "category_name": "Data Ai",
+  "plugin_name": "codex-data-ai",
+  "skill_names": [
+    "ai-engineer",
+    "data-analyst",
+    "data-engineer",
+    "data-scientist",
+    "database-optimizer",
+    "llm-architect",
+    "machine-learning-engineer",
+    "ml-engineer",
+    "mlops-engineer",
+    "nlp-engineer",
+    "postgres-pro",
+    "prompt-engineer",
+    "reinforcement-learning-engineer"
+  ]
+}

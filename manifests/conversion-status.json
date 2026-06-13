@@ -1,0 +1,618 @@
+[
+  {
+    "name": "api-designer",
+    "status": "adapted"
+  },
+  {
+    "name": "backend-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "design-bridge",
+    "status": "adapted"
+  },
+  {
+    "name": "electron-pro",
+    "status": "adapted"
+  },
+  {
+    "name": "frontend-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "fullstack-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "graphql-architect",
+    "status": "adapted"
+  },
+  {
+    "name": "microservices-architect",
+    "status": "adapted"
+  },
+  {
+    "name": "mobile-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "ui-designer",
+    "status": "adapted"
+  },
+  {
+    "name": "websocket-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "angular-architect",
+    "status": "adapted"
+  },
+  {
+    "name": "cpp-pro",
+    "status": "adapted"
+  },
+  {
+    "name": "csharp-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "django-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "dotnet-core-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "dotnet-framework-4.8-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "elixir-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "expo-react-native-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "fastapi-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "flutter-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "golang-pro",
+    "status": "adapted"
+  },
+  {
+    "name": "java-architect",
+    "status": "adapted"
+  },
+  {
+    "name": "javascript-pro",
+    "status": "adapted"
+  },
+  {
+    "name": "kotlin-specialist",
+    "status": "adapted"
+  },
+  {
+    "name": "laravel-specialist",
+    "status": "adapted"
+  },
+  {
+    "name": "nextjs-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "node-specialist",
+    "status": "adapted"
+  },
+  {
+    "name": "php-pro",
+    "status": "adapted"
+  },
+  {
+    "name": "powershell-5.1-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "powershell-7-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "python-pro",
+    "status": "adapted"
+  },
+  {
+    "name": "rails-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "react-specialist",
+    "status": "adapted"
+  },
+  {
+    "name": "rust-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "spring-boot-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "sql-pro",
+    "status": "adapted"
+  },
+  {
+    "name": "swift-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "symfony-specialist",
+    "status": "adapted"
+  },
+  {
+    "name": "typescript-pro",
+    "status": "adapted"
+  },
+  {
+    "name": "vue-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "azure-infra-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "cloud-architect",
+    "status": "adapted"
+  },
+  {
+    "name": "database-administrator",
+    "status": "adapted"
+  },
+  {
+    "name": "deployment-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "devops-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "devops-incident-responder",
+    "status": "adapted"
+  },
+  {
+    "name": "docker-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "incident-responder",
+    "status": "adapted"
+  },
+  {
+    "name": "kubernetes-specialist",
+    "status": "adapted"
+  },
+  {
+    "name": "network-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "platform-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "security-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "sre-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "terraform-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "terragrunt-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "windows-infra-admin",
+    "status": "adapted"
+  },
+  {
+    "name": "accessibility-tester",
+    "status": "adapted"
+  },
+  {
+    "name": "ad-security-reviewer",
+    "status": "adapted"
+  },
+  {
+    "name": "ai-writing-auditor",
+    "status": "adapted"
+  },
+  {
+    "name": "architect-reviewer",
+    "status": "adapted"
+  },
+  {
+    "name": "chaos-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "code-reviewer",
+    "status": "adapted"
+  },
+  {
+    "name": "compliance-auditor",
+    "status": "adapted"
+  },
+  {
+    "name": "debugger",
+    "status": "adapted"
+  },
+  {
+    "name": "error-detective",
+    "status": "adapted"
+  },
+  {
+    "name": "gdpr-ccpa-compliance",
+    "status": "adapted"
+  },
+  {
+    "name": "penetration-tester",
+    "status": "adapted"
+  },
+  {
+    "name": "performance-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "powershell-security-hardening",
+    "status": "adapted"
+  },
+  {
+    "name": "qa-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "security-auditor",
+    "status": "adapted"
+  },
+  {
+    "name": "test-automator",
+    "status": "adapted"
+  },
+  {
+    "name": "ui-ux-tester",
+    "status": "classified"
+  },
+  {
+    "name": "ai-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "data-analyst",
+    "status": "adapted"
+  },
+  {
+    "name": "data-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "data-scientist",
+    "status": "adapted"
+  },
+  {
+    "name": "database-optimizer",
+    "status": "adapted"
+  },
+  {
+    "name": "llm-architect",
+    "status": "adapted"
+  },
+  {
+    "name": "machine-learning-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "ml-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "mlops-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "nlp-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "postgres-pro",
+    "status": "adapted"
+  },
+  {
+    "name": "prompt-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "reinforcement-learning-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "build-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "cli-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "dependency-manager",
+    "status": "adapted"
+  },
+  {
+    "name": "documentation-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "dx-optimizer",
+    "status": "adapted"
+  },
+  {
+    "name": "git-workflow-manager",
+    "status": "adapted"
+  },
+  {
+    "name": "legacy-modernizer",
+    "status": "adapted"
+  },
+  {
+    "name": "mcp-developer",
+    "status": "classified"
+  },
+  {
+    "name": "powershell-module-architect",
+    "status": "adapted"
+  },
+  {
+    "name": "powershell-ui-architect",
+    "status": "adapted"
+  },
+  {
+    "name": "readme-generator",
+    "status": "adapted"
+  },
+  {
+    "name": "refactoring-specialist",
+    "status": "adapted"
+  },
+  {
+    "name": "slack-expert",
+    "status": "adapted"
+  },
+  {
+    "name": "tooling-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "visual-asset-generator",
+    "status": "classified"
+  },
+  {
+    "name": "api-documenter",
+    "status": "adapted"
+  },
+  {
+    "name": "blockchain-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "embedded-systems",
+    "status": "adapted"
+  },
+  {
+    "name": "fintech-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "game-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "healthcare-admin",
+    "status": "classified"
+  },
+  {
+    "name": "hipaa-compliance",
+    "status": "adapted"
+  },
+  {
+    "name": "iot-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "m365-admin",
+    "status": "adapted"
+  },
+  {
+    "name": "mobile-app-developer",
+    "status": "adapted"
+  },
+  {
+    "name": "payment-integration",
+    "status": "adapted"
+  },
+  {
+    "name": "quant-analyst",
+    "status": "adapted"
+  },
+  {
+    "name": "risk-manager",
+    "status": "adapted"
+  },
+  {
+    "name": "seo-specialist",
+    "status": "adapted"
+  },
+  {
+    "name": "assumption-mapping",
+    "status": "adapted"
+  },
+  {
+    "name": "backlog-grooming",
+    "status": "adapted"
+  },
+  {
+    "name": "business-analyst",
+    "status": "adapted"
+  },
+  {
+    "name": "content-marketer",
+    "status": "adapted"
+  },
+  {
+    "name": "content-quality-editor",
+    "status": "adapted"
+  },
+  {
+    "name": "customer-success-manager",
+    "status": "adapted"
+  },
+  {
+    "name": "growth-loops",
+    "status": "adapted"
+  },
+  {
+    "name": "legal-advisor",
+    "status": "adapted"
+  },
+  {
+    "name": "license-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "product-manager",
+    "status": "adapted"
+  },
+  {
+    "name": "project-manager",
+    "status": "adapted"
+  },
+  {
+    "name": "sales-engineer",
+    "status": "adapted"
+  },
+  {
+    "name": "scrum-master",
+    "status": "adapted"
+  },
+  {
+    "name": "technical-writer",
+    "status": "adapted"
+  },
+  {
+    "name": "ux-researcher",
+    "status": "adapted"
+  },
+  {
+    "name": "wordpress-master",
+    "status": "adapted"
+  },
+  {
+    "name": "agent-installer",
+    "status": "adapted"
+  },
+  {
+    "name": "agent-organizer",
+    "status": "adapted"
+  },
+  {
+    "name": "codebase-orchestrator",
+    "status": "classified"
+  },
+  {
+    "name": "context-manager",
+    "status": "adapted"
+  },
+  {
+    "name": "error-coordinator",
+    "status": "adapted"
+  },
+  {
+    "name": "it-ops-orchestrator",
+    "status": "adapted"
+  },
+  {
+    "name": "knowledge-synthesizer",
+    "status": "adapted"
+  },
+  {
+    "name": "multi-agent-coordinator",
+    "status": "adapted"
+  },
+  {
+    "name": "performance-monitor",
+    "status": "adapted"
+  },
+  {
+    "name": "task-distributor",
+    "status": "adapted"
+  },
+  {
+    "name": "workflow-orchestrator",
+    "status": "adapted"
+  },
+  {
+    "name": "ab-test-analysis",
+    "status": "adapted"
+  },
+  {
+    "name": "cohort-analysis",
+    "status": "adapted"
+  },
+  {
+    "name": "competitive-analyst",
+    "status": "adapted"
+  },
+  {
+    "name": "data-researcher",
+    "status": "adapted"
+  },
+  {
+    "name": "first-principles-thinking",
+    "status": "adapted"
+  },
+  {
+    "name": "market-researcher",
+    "status": "adapted"
+  },
+  {
+    "name": "project-idea-validator",
+    "status": "adapted"
+  },
+  {
+    "name": "research-analyst",
+    "status": "adapted"
+  },
+  {
+    "name": "scientific-literature-researcher",
+    "status": "classified"
+  },
+  {
+    "name": "search-specialist",
+    "status": "adapted"
+  },
+  {
+    "name": "trend-analyst",
+    "status": "adapted"
+  }
+]

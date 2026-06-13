@@ -1,0 +1,22 @@
+{
+  "name": "rails-expert",
+  "category_slug": "02-language-specialists",
+  "category_name": "Language Specialists",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/02-language-specialists/rails-expert.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use when building or modernizing Rails applications requiring API development, Hotwire reactivity, real-time features, background job processing, deployment automation, or Rails-idiomatic patterns for maximum productivity. Version-aware: adapts to Rails 7.x and 8.x projects.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

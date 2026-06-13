@@ -1,0 +1,128 @@
+{
+  "name": "awesome-codex-subagents",
+  "interface": {
+    "displayName": "Awesome Codex Subagents"
+  },
+  "plugins": [
+    {
+      "name": "codex-business-product",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-business-product"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "codex-core-development",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-core-development"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "codex-data-ai",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-data-ai"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "codex-developer-experience",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-developer-experience"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "codex-infrastructure",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-infrastructure"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "codex-language-specialists",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-language-specialists"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "codex-meta-orchestration",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-meta-orchestration"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "codex-quality-security",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-quality-security"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "codex-research-analysis",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-research-analysis"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "codex-specialized-domains",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-specialized-domains"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

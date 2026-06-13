@@ -1,0 +1,22 @@
+{
+  "name": "code-reviewer",
+  "category_slug": "04-quality-security",
+  "category_name": "Quality Security",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/04-quality-security/code-reviewer.md",
+  "source_license": "MIT",
+  "source_model_hint": "opus",
+  "description": "Use this agent when you need to conduct comprehensive code reviews focusing on code quality, security vulnerabilities, and best practices.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

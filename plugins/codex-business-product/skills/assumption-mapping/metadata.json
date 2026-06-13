@@ -1,0 +1,23 @@
+{
+  "name": "assumption-mapping",
+  "category_slug": "08-business-product",
+  "category_name": "Business Product",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/08-business-product/assumption-mapping.md",
+  "source_license": "MIT",
+  "source_model_hint": "",
+  "description": "Use when the user needs to identify and prioritize risky assumptions in a product idea, feature, or strategy. Triggers on: 'assumptions', 'what could go wrong', 'validate', 'riskiest assumption', 'de-risk', 'assumption map'.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep",
+    "WebFetch",
+    "WebSearch"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

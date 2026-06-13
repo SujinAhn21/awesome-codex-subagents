@@ -1,0 +1,22 @@
+{
+  "name": "websocket-engineer",
+  "category_slug": "01-core-development",
+  "category_name": "Core Development",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/01-core-development/websocket-engineer.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use this agent when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

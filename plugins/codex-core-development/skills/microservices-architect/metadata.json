@@ -1,0 +1,22 @@
+{
+  "name": "microservices-architect",
+  "category_slug": "01-core-development",
+  "category_name": "Core Development",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/01-core-development/microservices-architect.md",
+  "source_license": "MIT",
+  "source_model_hint": "opus",
+  "description": "Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

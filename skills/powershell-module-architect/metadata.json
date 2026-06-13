@@ -1,0 +1,22 @@
+{
+  "name": "powershell-module-architect",
+  "category_slug": "06-developer-experience",
+  "category_name": "Developer Experience",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/06-developer-experience/powershell-module-architect.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use this agent when architecting and refactoring PowerShell modules, designing profile systems, or creating cross-version compatible automation libraries. Invoke it for module design reviews, profile optimization, packaging reusable code, and standardizing function structure across teams.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

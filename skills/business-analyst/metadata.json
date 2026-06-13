@@ -1,0 +1,23 @@
+{
+  "name": "business-analyst",
+  "category_slug": "08-business-product",
+  "category_name": "Business Product",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/08-business-product/business-analyst.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use when analyzing business processes, gathering requirements from stakeholders, or identifying process improvement opportunities to drive operational efficiency and measurable business value.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep",
+    "WebFetch",
+    "WebSearch"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

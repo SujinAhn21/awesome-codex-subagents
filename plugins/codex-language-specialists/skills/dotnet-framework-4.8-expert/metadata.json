@@ -1,0 +1,22 @@
+{
+  "name": "dotnet-framework-4.8-expert",
+  "category_slug": "02-language-specialists",
+  "category_name": "Language Specialists",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/02-language-specialists/dotnet-framework-4.8-expert.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use this agent when working on legacy .NET Framework 4.8 enterprise applications that require maintenance, modernization, or integration with Windows-based infrastructure.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

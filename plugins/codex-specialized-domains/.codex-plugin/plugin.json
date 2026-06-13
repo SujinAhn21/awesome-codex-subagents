@@ -1,0 +1,22 @@
+{
+  "id": "codex-specialized-domains",
+  "name": "codex-specialized-domains",
+  "version": "0.1.0+codex.20260613115703",
+  "description": "Codex plugin bundle for Specialized Domains specialists adapted from the upstream Claude-oriented collection.",
+  "skills": "skills",
+  "author": {
+    "name": "ahnsujin"
+  },
+  "license": "MIT",
+  "interface": {
+    "displayName": "codex-specialized-domains",
+    "shortDescription": "Codex plugin bundle for Specialized Domains specialists adapted from the upstream Claude-oriented collection.",
+    "longDescription": "Codex plugin bundle for Specialized Domains specialists adapted from the upstream Claude-oriented collection.",
+    "developerName": "ahnsujin",
+    "category": "Productivity",
+    "capabilities": [
+      "skills"
+    ],
+    "defaultPrompt": "Use the bundled specialists from codex-specialized-domains when the task clearly matches their skill descriptions."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "node-specialist",
+  "category_slug": "02-language-specialists",
+  "category_name": "Language Specialists",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/02-language-specialists/node-specialist.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use this agent when you need to build, optimize, or debug Node.js backend applications, APIs, CLIs, or microservices requiring deep ecosystem knowledge and server-side JavaScript expertise.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "context-manager",
+  "category_slug": "09-meta-orchestration",
+  "category_name": "Meta Orchestration",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/09-meta-orchestration/context-manager.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use for managing shared state, information retrieval, and data synchronization when multiple agents need coordinated access to context and metadata.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

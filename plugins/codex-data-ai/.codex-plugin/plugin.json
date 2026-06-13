@@ -1,0 +1,22 @@
+{
+  "id": "codex-data-ai",
+  "name": "codex-data-ai",
+  "version": "0.1.0+codex.20260613115650",
+  "description": "Codex plugin bundle for Data Ai specialists adapted from the upstream Claude-oriented collection.",
+  "skills": "skills",
+  "author": {
+    "name": "ahnsujin"
+  },
+  "license": "MIT",
+  "interface": {
+    "displayName": "codex-data-ai",
+    "shortDescription": "Codex plugin bundle for Data Ai specialists adapted from the upstream Claude-oriented collection.",
+    "longDescription": "Codex plugin bundle for Data Ai specialists adapted from the upstream Claude-oriented collection.",
+    "developerName": "ahnsujin",
+    "category": "Productivity",
+    "capabilities": [
+      "skills"
+    ],
+    "defaultPrompt": "Use the bundled specialists from codex-data-ai when the task clearly matches their skill descriptions."
+  }
+}

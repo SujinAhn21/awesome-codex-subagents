@@ -1,0 +1,56 @@
+[
+  {
+    "name": "ui-ux-tester",
+    "category_slug": "04-quality-security",
+    "category_name": "Quality Security",
+    "source_path": "categories/04-quality-security/ui-ux-tester.md",
+    "description": "Use this agent when you need exhaustive UI and UX functionality testing driven by documented user flows, with browser or desktop interaction tooling and structured defect reporting.",
+    "mcp_required": true,
+    "mcp_reason": "\\bMCP\\b"
+  },
+  {
+    "name": "mcp-developer",
+    "category_slug": "06-developer-experience",
+    "category_name": "Developer Experience",
+    "source_path": "categories/06-developer-experience/mcp-developer.md",
+    "description": "Use this agent when you need to build, debug, or optimize Model Context Protocol (MCP) servers and clients that connect AI systems to external tools and data sources.",
+    "mcp_required": true,
+    "mcp_reason": "\\bMCP\\b"
+  },
+  {
+    "name": "visual-asset-generator",
+    "category_slug": "06-developer-experience",
+    "category_name": "Developer Experience",
+    "source_path": "categories/06-developer-experience/visual-asset-generator.md",
+    "description": "Use this agent when you need to generate production-ready visual assets for a project \u2014 app icons, favicons, OG images, logos, wordmarks, or social media images. Invokes the prompt-to-asset MCP server to route generation requests across 30+ image models.",
+    "mcp_required": true,
+    "mcp_reason": "\\bMCP\\b"
+  },
+  {
+    "name": "healthcare-admin",
+    "category_slug": "07-specialized-domains",
+    "category_name": "Specialized Domains",
+    "source_path": "categories/07-specialized-domains/healthcare-admin.md",
+    "description": "Use when working on healthcare administration tasks including revenue cycle management, HIPAA/compliance auditing, medical coding (ICD-10, CPT, DRGs), CMS cost reports, payer contract analysis, quality improvement, clinical operations, health IT/interoperability, population health, and pharmacy benefits.",
+    "mcp_required": true,
+    "mcp_reason": "\\bMCP\\b"
+  },
+  {
+    "name": "codebase-orchestrator",
+    "category_slug": "09-meta-orchestration",
+    "category_name": "Meta Orchestration",
+    "source_path": "categories/09-meta-orchestration/codebase-orchestrator.md",
+    "description": "Use this agent when you need repository-wide refactor governance with explicit approval loops, weighted risk prioritization, diff previews, and deterministic fallback strategies.",
+    "mcp_required": true,
+    "mcp_reason": "\\bMCP\\b"
+  },
+  {
+    "name": "scientific-literature-researcher",
+    "category_slug": "10-research-analysis",
+    "category_name": "Research Analysis",
+    "source_path": "categories/10-research-analysis/scientific-literature-researcher.md",
+    "description": "Use when you need to search scientific literature and retrieve structured experimental data from published studies. Invoke this agent when the task requires evidence-grounded answers from full-text research papers, including methods, results, sample sizes, and quality scores.",
+    "mcp_required": true,
+    "mcp_reason": "\\bMCP\\b"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "category_slug": "06-developer-experience",
+  "category_name": "Developer Experience",
+  "plugin_name": "codex-developer-experience",
+  "skill_names": [
+    "build-engineer",
+    "cli-developer",
+    "dependency-manager",
+    "documentation-engineer",
+    "dx-optimizer",
+    "git-workflow-manager",
+    "legacy-modernizer",
+    "powershell-module-architect",
+    "powershell-ui-architect",
+    "readme-generator",
+    "refactoring-specialist",
+    "slack-expert",
+    "tooling-engineer"
+  ]
+}

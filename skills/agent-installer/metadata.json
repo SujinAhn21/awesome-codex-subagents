@@ -1,0 +1,21 @@
+{
+  "name": "agent-installer",
+  "category_slug": "09-meta-orchestration",
+  "category_name": "Meta Orchestration",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/09-meta-orchestration/agent-installer.md",
+  "source_license": "MIT",
+  "source_model_hint": "haiku",
+  "description": "Use this agent when the user wants to discover, browse, or install Claude Code agents from the awesome-claude-code-subagents repository.",
+  "tools": [
+    "Bash",
+    "WebFetch",
+    "Read",
+    "Write",
+    "Glob"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

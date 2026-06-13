@@ -1,0 +1,22 @@
+{
+  "name": "windows-infra-admin",
+  "category_slug": "03-infrastructure",
+  "category_name": "Infrastructure",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/03-infrastructure/windows-infra-admin.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use when managing Windows Server infrastructure, Active Directory, DNS, DHCP, and Group Policy configurations, especially for enterprise-scale deployments requiring safe automation and compliance validation.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

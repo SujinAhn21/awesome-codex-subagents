@@ -1,0 +1,17 @@
+{
+  "category_slug": "10-research-analysis",
+  "category_name": "Research Analysis",
+  "plugin_name": "codex-research-analysis",
+  "skill_names": [
+    "ab-test-analysis",
+    "cohort-analysis",
+    "competitive-analyst",
+    "data-researcher",
+    "first-principles-thinking",
+    "market-researcher",
+    "project-idea-validator",
+    "research-analyst",
+    "search-specialist",
+    "trend-analyst"
+  ]
+}

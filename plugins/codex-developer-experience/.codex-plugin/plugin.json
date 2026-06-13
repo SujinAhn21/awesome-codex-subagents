@@ -1,0 +1,22 @@
+{
+  "id": "codex-developer-experience",
+  "name": "codex-developer-experience",
+  "version": "0.1.0+codex.20260613120312",
+  "description": "Codex plugin bundle for Developer Experience specialists adapted from the upstream Claude-oriented collection.",
+  "skills": "skills",
+  "author": {
+    "name": "ahnsujin"
+  },
+  "license": "MIT",
+  "interface": {
+    "displayName": "codex-developer-experience",
+    "shortDescription": "Codex plugin bundle for Developer Experience specialists adapted from the upstream Claude-oriented collection.",
+    "longDescription": "Codex plugin bundle for Developer Experience specialists adapted from the upstream Claude-oriented collection.",
+    "developerName": "ahnsujin",
+    "category": "Productivity",
+    "capabilities": [
+      "skills"
+    ],
+    "defaultPrompt": "Use the bundled specialists from codex-developer-experience when the task clearly matches their skill descriptions."
+  }
+}

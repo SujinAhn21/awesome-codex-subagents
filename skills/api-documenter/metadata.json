@@ -1,0 +1,23 @@
+{
+  "name": "api-documenter",
+  "category_slug": "07-specialized-domains",
+  "category_name": "Specialized Domains",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/07-specialized-domains/api-documenter.md",
+  "source_license": "MIT",
+  "source_model_hint": "haiku",
+  "description": "Use this agent when creating or improving API documentation, writing OpenAPI specifications, building interactive documentation portals, or generating code examples for APIs.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep",
+    "WebFetch",
+    "WebSearch"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

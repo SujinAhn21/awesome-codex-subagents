@@ -1,0 +1,22 @@
+{
+  "name": "frontend-developer",
+  "category_slug": "01-core-development",
+  "category_name": "Core Development",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/01-core-development/frontend-developer.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

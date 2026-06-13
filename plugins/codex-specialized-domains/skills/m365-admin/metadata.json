@@ -1,0 +1,22 @@
+{
+  "name": "m365-admin",
+  "category_slug": "07-specialized-domains",
+  "category_name": "Specialized Domains",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/07-specialized-domains/m365-admin.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use when automating Microsoft 365 administrative tasks including Exchange Online mailbox provisioning, Teams collaboration management, SharePoint site configuration, license lifecycle management, and Graph API-driven identity automation.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

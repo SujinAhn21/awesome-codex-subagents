@@ -1,0 +1,23 @@
+{
+  "name": "license-engineer",
+  "category_slug": "08-business-product",
+  "category_name": "Business Product",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/08-business-product/license-engineer.md",
+  "source_license": "MIT",
+  "source_model_hint": "opus",
+  "description": "Use this agent when architecting, implementing, or optimizing end-to-end legal licensing systems\u2014from OSI standard selection and dependency compliance pipelines to proprietary deployment and risk monitoring.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep",
+    "WebFetch",
+    "WebSearch"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

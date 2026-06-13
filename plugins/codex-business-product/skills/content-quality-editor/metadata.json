@@ -1,0 +1,20 @@
+{
+  "name": "content-quality-editor",
+  "category_slug": "08-business-product",
+  "category_name": "Business Product",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/08-business-product/content-quality-editor.md",
+  "source_license": "MIT",
+  "source_model_hint": "haiku",
+  "description": "Use this agent before publishing any AI-generated content \u2014 blog posts, READMEs, release notes, commit messages, PR descriptions, documentation, or social posts. Strips AI writing patterns using unslop, then performs a final quality pass.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

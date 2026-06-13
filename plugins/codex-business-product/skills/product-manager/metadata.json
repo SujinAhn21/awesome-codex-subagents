@@ -1,0 +1,23 @@
+{
+  "name": "product-manager",
+  "category_slug": "08-business-product",
+  "category_name": "Business Product",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/08-business-product/product-manager.md",
+  "source_license": "MIT",
+  "source_model_hint": "haiku",
+  "description": "Use this agent when you need to make product strategy decisions, prioritize features, or define roadmap plans based on user needs and business goals.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep",
+    "WebFetch",
+    "WebSearch"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

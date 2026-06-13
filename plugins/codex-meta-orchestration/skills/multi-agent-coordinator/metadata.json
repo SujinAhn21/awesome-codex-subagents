@@ -1,0 +1,21 @@
+{
+  "name": "multi-agent-coordinator",
+  "category_slug": "09-meta-orchestration",
+  "category_name": "Meta Orchestration",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/09-meta-orchestration/multi-agent-coordinator.md",
+  "source_license": "MIT",
+  "source_model_hint": "opus",
+  "description": "Use when coordinating multiple concurrent agents that need to communicate, share state, synchronize work, and handle distributed failures across a system.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

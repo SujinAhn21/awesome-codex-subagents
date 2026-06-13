@@ -1,0 +1,23 @@
+{
+  "category_slug": "08-business-product",
+  "category_name": "Business Product",
+  "plugin_name": "codex-business-product",
+  "skill_names": [
+    "assumption-mapping",
+    "backlog-grooming",
+    "business-analyst",
+    "content-marketer",
+    "content-quality-editor",
+    "customer-success-manager",
+    "growth-loops",
+    "legal-advisor",
+    "license-engineer",
+    "product-manager",
+    "project-manager",
+    "sales-engineer",
+    "scrum-master",
+    "technical-writer",
+    "ux-researcher",
+    "wordpress-master"
+  ]
+}

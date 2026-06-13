@@ -1,0 +1,20 @@
+{
+  "category_slug": "07-specialized-domains",
+  "category_name": "Specialized Domains",
+  "plugin_name": "codex-specialized-domains",
+  "skill_names": [
+    "api-documenter",
+    "blockchain-developer",
+    "embedded-systems",
+    "fintech-engineer",
+    "game-developer",
+    "hipaa-compliance",
+    "iot-engineer",
+    "m365-admin",
+    "mobile-app-developer",
+    "payment-integration",
+    "quant-analyst",
+    "risk-manager",
+    "seo-specialist"
+  ]
+}

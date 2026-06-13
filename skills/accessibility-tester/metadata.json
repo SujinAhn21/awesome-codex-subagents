@@ -1,0 +1,20 @@
+{
+  "name": "accessibility-tester",
+  "category_slug": "04-quality-security",
+  "category_name": "Quality Security",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/04-quality-security/accessibility-tester.md",
+  "source_license": "MIT",
+  "source_model_hint": "haiku",
+  "description": "Use this agent when you need comprehensive accessibility testing, WCAG compliance verification, or assessment of assistive technology support.",
+  "tools": [
+    "Read",
+    "Grep",
+    "Glob",
+    "Bash"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

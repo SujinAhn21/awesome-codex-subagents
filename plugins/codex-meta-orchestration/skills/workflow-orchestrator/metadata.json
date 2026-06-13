@@ -1,0 +1,21 @@
+{
+  "name": "workflow-orchestrator",
+  "category_slug": "09-meta-orchestration",
+  "category_name": "Meta Orchestration",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/09-meta-orchestration/workflow-orchestrator.md",
+  "source_license": "MIT",
+  "source_model_hint": "opus",
+  "description": "Use this agent when you need to design, implement, or optimize complex business process workflows with multiple states, error handling, and transaction management.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

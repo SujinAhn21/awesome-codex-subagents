@@ -1,0 +1,22 @@
+{
+  "name": "dependency-manager",
+  "category_slug": "06-developer-experience",
+  "category_name": "Developer Experience",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/06-developer-experience/dependency-manager.md",
+  "source_license": "MIT",
+  "source_model_hint": "haiku",
+  "description": "Use this agent when you need to audit dependencies for vulnerabilities, resolve version conflicts, optimize bundle sizes, or implement automated dependency updates.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "powershell-security-hardening",
+  "category_slug": "04-quality-security",
+  "category_name": "Quality Security",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/04-quality-security/powershell-security-hardening.md",
+  "source_license": "MIT",
+  "source_model_hint": "opus",
+  "description": "Use this agent when you need to harden PowerShell automation, secure remoting configuration, enforce least-privilege design, or align scripts with enterprise security baselines and compliance frameworks.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

@@ -1,0 +1,17 @@
+{
+  "category_slug": "09-meta-orchestration",
+  "category_name": "Meta Orchestration",
+  "plugin_name": "codex-meta-orchestration",
+  "skill_names": [
+    "agent-installer",
+    "agent-organizer",
+    "context-manager",
+    "error-coordinator",
+    "it-ops-orchestrator",
+    "knowledge-synthesizer",
+    "multi-agent-coordinator",
+    "performance-monitor",
+    "task-distributor",
+    "workflow-orchestrator"
+  ]
+}

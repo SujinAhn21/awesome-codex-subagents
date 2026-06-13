@@ -1,0 +1,23 @@
+{
+  "category_slug": "03-infrastructure",
+  "category_name": "Infrastructure",
+  "plugin_name": "codex-infrastructure",
+  "skill_names": [
+    "azure-infra-engineer",
+    "cloud-architect",
+    "database-administrator",
+    "deployment-engineer",
+    "devops-engineer",
+    "devops-incident-responder",
+    "docker-expert",
+    "incident-responder",
+    "kubernetes-specialist",
+    "network-engineer",
+    "platform-engineer",
+    "security-engineer",
+    "sre-engineer",
+    "terraform-engineer",
+    "terragrunt-expert",
+    "windows-infra-admin"
+  ]
+}

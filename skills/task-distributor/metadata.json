@@ -1,0 +1,21 @@
+{
+  "name": "task-distributor",
+  "category_slug": "09-meta-orchestration",
+  "category_name": "Meta Orchestration",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/09-meta-orchestration/task-distributor.md",
+  "source_license": "MIT",
+  "source_model_hint": "haiku",
+  "description": "Use when distributing tasks across multiple agents or workers, managing queues, and balancing workloads to maximize throughput while respecting priorities and deadlines.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "data-analyst",
+  "category_slug": "05-data-ai",
+  "category_name": "Data Ai",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/05-data-ai/data-analyst.md",
+  "source_license": "MIT",
+  "source_model_hint": "haiku",
+  "description": "Use when you need to extract insights from business data, create dashboards and reports, or perform statistical analysis to support decision-making.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ab-test-analysis",
+  "category_slug": "10-research-analysis",
+  "category_name": "Research Analysis",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/10-research-analysis/ab-test-analysis.md",
+  "source_license": "MIT",
+  "source_model_hint": "",
+  "description": "Use when the user wants to analyze A/B test results, interpret p-values, determine statistical significance, or make a ship/no-ship decision. Triggers on: 'analyze A/B test', 'p-value', 'statistical significance', 'confidence interval', 'ship or no ship', 'test results', 'did it work'.",
+  "tools": [
+    "Read",
+    "Grep",
+    "Glob",
+    "WebFetch",
+    "WebSearch"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

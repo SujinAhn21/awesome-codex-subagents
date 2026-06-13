@@ -1,0 +1,22 @@
+{
+  "name": "tooling-engineer",
+  "category_slug": "06-developer-experience",
+  "category_name": "Developer Experience",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/06-developer-experience/tooling-engineer.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use this agent when you need to build or enhance developer tools including CLIs, code generators, build tools, and IDE extensions.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

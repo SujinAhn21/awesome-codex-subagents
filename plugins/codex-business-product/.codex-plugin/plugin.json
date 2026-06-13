@@ -1,0 +1,22 @@
+{
+  "id": "codex-business-product",
+  "name": "codex-business-product",
+  "version": "0.1.0+codex.20260612172533",
+  "description": "Codex plugin bundle for Business Product specialists adapted from the upstream Claude-oriented collection.",
+  "skills": "skills",
+  "author": {
+    "name": "ahnsujin"
+  },
+  "license": "MIT",
+  "interface": {
+    "displayName": "codex-business-product",
+    "shortDescription": "Codex plugin bundle for Business Product specialists adapted from the upstream Claude-oriented collection.",
+    "longDescription": "Codex plugin bundle for Business Product specialists adapted from the upstream Claude-oriented collection.",
+    "developerName": "ahnsujin",
+    "category": "Productivity",
+    "capabilities": [
+      "skills"
+    ],
+    "defaultPrompt": "Use the bundled specialists from codex-business-product when the task clearly matches their skill descriptions."
+  }
+}

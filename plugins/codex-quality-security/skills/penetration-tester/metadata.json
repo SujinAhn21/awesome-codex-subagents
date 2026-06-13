@@ -1,0 +1,20 @@
+{
+  "name": "penetration-tester",
+  "category_slug": "04-quality-security",
+  "category_name": "Quality Security",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/04-quality-security/penetration-tester.md",
+  "source_license": "MIT",
+  "source_model_hint": "opus",
+  "description": "Use this agent when you need to conduct authorized security penetration tests to identify real vulnerabilities through active exploitation and validation. Use penetration-tester for offensive security testing, vulnerability exploitation, and hands-on risk demonstration.",
+  "tools": [
+    "Read",
+    "Grep",
+    "Glob",
+    "Bash"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

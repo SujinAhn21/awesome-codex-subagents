@@ -1,0 +1,21 @@
+{
+  "name": "search-specialist",
+  "category_slug": "10-research-analysis",
+  "category_name": "Research Analysis",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/10-research-analysis/search-specialist.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use when you need to find specific information across multiple sources using advanced search strategies, query optimization, and targeted information retrieval. Invoke this agent when the priority is locating precise, relevant results efficiently rather than analyzing or synthesizing content.",
+  "tools": [
+    "Read",
+    "Grep",
+    "Glob",
+    "WebFetch",
+    "WebSearch"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}

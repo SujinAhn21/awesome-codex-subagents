@@ -1,0 +1,22 @@
+{
+  "id": "codex-meta-orchestration",
+  "name": "codex-meta-orchestration",
+  "version": "0.1.0+codex.20260613121447",
+  "description": "Codex plugin bundle for Meta Orchestration specialists adapted from the upstream Claude-oriented collection.",
+  "skills": "skills",
+  "author": {
+    "name": "ahnsujin"
+  },
+  "license": "MIT",
+  "interface": {
+    "displayName": "codex-meta-orchestration",
+    "shortDescription": "Codex plugin bundle for Meta Orchestration specialists adapted from the upstream Claude-oriented collection.",
+    "longDescription": "Codex plugin bundle for Meta Orchestration specialists adapted from the upstream Claude-oriented collection.",
+    "developerName": "ahnsujin",
+    "category": "Productivity",
+    "capabilities": [
+      "skills"
+    ],
+    "defaultPrompt": "Use the bundled specialists from codex-meta-orchestration when the task clearly matches their skill descriptions."
+  }
+}

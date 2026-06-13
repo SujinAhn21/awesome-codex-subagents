@@ -1,0 +1,22 @@
+{
+  "name": "docker-expert",
+  "category_slug": "03-infrastructure",
+  "category_name": "Infrastructure",
+  "source_repo": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "source_path": "categories/03-infrastructure/docker-expert.md",
+  "source_license": "MIT",
+  "source_model_hint": "sonnet",
+  "description": "Use this agent when you need to build, optimize, or secure Docker container images and orchestration for production environments.",
+  "tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Bash",
+    "Glob",
+    "Grep"
+  ],
+  "mcp_required": false,
+  "mcp_reason": null,
+  "adaptation_type": "codex-skill",
+  "conversion_status": "adapted"
+}
